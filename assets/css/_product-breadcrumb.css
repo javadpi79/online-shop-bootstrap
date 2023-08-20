@@ -1,0 +1,35 @@
+.custom-breadcrumb{
+    margin: 0;
+    background-color: transparent;
+}
+.product-page-rate{
+    color: gold;
+    font-size: 18px;
+}
+.product-page-rate span{
+    color: rgb(44, 44, 44);
+    font-size: 16px;
+}
+.product-page-price s{
+    font-size: 16px;
+}
+.product-page-title{
+    font-size: 23px;
+}
+p.describe{
+    font-size: 17px;
+    line-height: 36px;
+    text-align: justify;
+}
+.product-page-title .fa-heart{
+color: rgb(214, 27, 27);
+}
+.product-page-title .fa-share-nodes, .product-page-title .fa-bell {
+    color: rgb(61, 61, 61);}
+
+    .p-benfit{
+font-size: 16px;
+    }
+    .brand-cat{
+        font-size: 15px;
+    }

@@ -1,0 +1,81 @@
+.bg-top-nav{
+    background-color: #232f3e;
+color: #fff;
+}
+.custom-top-nav,.bg-top-nav p{
+    font-size: 14px;
+}
+.custom-top-nav a{
+    padding: 10px;
+}
+.custom-top-nav .border-left{
+    border-left: 1px solid #4a4a4a!important;
+}
+.costum-btn-font-size{
+    font-size: 14px;
+}
+.shop-card{
+    background-color: transparent;
+}
+.shop-card span{
+    font-size: 16px;
+}
+.shop-card i {
+    vertical-align: -2px;
+}
+.costum-dropdown-toggle::after{
+    vertical-align: 0;
+}
+.basket a img{
+    width: 64px;
+    height: 64px;
+} 
+.basket a{
+    font-size: 14px;
+}
+.basket {
+    width: 300px;
+}
+.custom-navbar-nav{
+    font-size: 15px;
+}
+.custom-navbar-nav .nav-item{
+    position: unset;
+}
+/* .custom-navbar{
+    position: unset;
+} */
+
+.custom-nav{
+    position: relative;
+}
+.custom-navbar-nav .nav-item .dropdown-menu
+{
+color:#fff;
+border-radius: 0;
+top: 54px;
+width: 100%;
+}
+.dropdown-img img{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.dropdown-img ul.nav li a{
+color: #000!important;
+transition: all 0.4s ease;
+}
+.dropdown-img ul.nav li a:hover{
+margin-right: 7px;
+color: rgb(56, 136, 255)!important;
+cursor: pointer;
+}
+@media (max-width: 767px) {
+.mt-xsm-2{
+    margin-top: 1rem;
+}
+}
+.custom-navbar-toggle{
+    color: #fff;
+    border: none;
+}

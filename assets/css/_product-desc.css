@@ -1,0 +1,109 @@
+.costum-nav-tabs-product-page .nav-link.active{
+border-radius: 0;
+border-top: 3px solid red;
+}
+.costum-nav-tabs-product-page .nav-link{
+    font-size: 16px;
+}
+.custom-tab-pane-product,.custom-tab-pane-product-details h5{
+color: #848181;
+}
+.product-desc{
+    font-size: 15px;
+    line-height: 36px;
+    text-align: justify;
+    background-color: #b4a7a769;
+}
+.product-main-desc{
+    font-size: 15px;
+    line-height: 36px;
+    text-align: justify;
+}
+.product-all-rate p{
+font-size: 14px;
+}
+.progress-product-wrapper{
+    background-color:#b4a7a769 ;
+}
+.product-desc-step li{
+    border-right: 1px solid rgb(129, 129, 129);
+    font-size: 16px;
+    line-height: 46px;
+    color: #2f2f2f;
+}
+.product-desc-step li i{
+    top: -8px;
+    right: -10.5px;
+    font-size: 20px;
+    color: rgb(129, 129, 129);
+}
+.product-desc-step li .p-img-wrapper{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.custom-tab-pane-product-details ul li div.key{
+    background-color: #f7f6f6;
+    flex: 0 0 20%;
+    height: 40px;
+    font-size: 15px;
+}
+.custom-tab-pane-product-details ul li div.value{
+    background-color: #f7f6f6;
+    flex: 0 0 78%;
+    height: 40px;
+    font-size: 15px;
+}
+.custom-tab-pane-product-details ul p i{
+    vertical-align: -2px;
+}
+.custom-tab-pane-product-details ul p{
+    font-size: 16px;
+}
+.add-comment p:first-child{
+font-size: 18px;
+color: #505050;
+}
+.add-comment p:nth-child(2){
+color: #505050;
+}
+.add-comment a i{
+vertical-align: -3px;
+}
+.custom-product-media h5,.p-supplier{
+font-size: 16px;
+}
+.user-details p,.p-color{
+font-size: 15px;
+}
+.user-details .bg-custom{
+    font-size: 16px;
+}
+.user-p-comment p{
+    font-size: 18px;
+}
+.user-p-comment .bnefit-comm-title{
+    font-size: 16px;
+}
+.user-p-comment ul.nav li{
+    font-size: 14px;
+
+}
+.user-p-comment ul.nav li i{
+    font-size: 8px;
+    color: #8888fb;
+}
+.comment-vote span{
+    font-size: 14px;
+    padding: 4px 10px;
+}
+.comment-vote{
+    font-size: 16x;
+    text-align: left;
+}
+.add-comments p{
+    font-size: 18px;
+}
+.add-comments p i{
+font-size: 36px;
+vertical-align: -8px;
+}

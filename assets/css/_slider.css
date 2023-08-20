@@ -1,0 +1,18 @@
+.slid-1 a{
+width: 100%;
+}
+.slid-1 a img{
+    width: 100%;
+}
+.slid-2 a{
+    width: 100%;
+    }
+    .slid-2 a img{
+        width: 100%;
+    }
+    .custom-slide{
+        height: 100%;
+    }
+    .custom-slide .carousel-inner , .custom-slide .carousel-inner .carousel-item , .custom-slide .carousel-inner .carousel-item img{
+        height: 100%;
+    }

@@ -1,0 +1,66 @@
+.custom-nav-tabs .nav-link{
+border: none;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+font-size: 15px;
+color: rgb(56, 56, 56);
+} 
+.custom-nav-tabs .nav-link.active, .custom-nav-tabs .nav-item.show .nav-link {
+    color: rgb(238, 99, 99);
+    background-color: transparent;
+    border-color: transparent;
+}
+.custom-nav-tabs .nav-link:hover, .custom-nav-tabs .nav-link:focus {
+    border-color: transparent;
+}
+.offer-details a{
+font-size: 16px;
+color: #9891ff;
+}
+.offer-raiting i{
+    color: #caca14;
+    font-size: 16px;
+}
+.offer-price s{
+color: red;
+font-size: 16px;
+}
+.offer-price span{
+    font-size: 16px;
+    color: #565555;
+}
+.count-down-timer{
+    font-size: 17px;
+    color: #565555;
+}
+#offer-expire-text{
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 18px;
+}
+.offer-blurs{
+    filter: blur(2px);
+}
+.s-o-box-shadow{
+    box-shadow: 0 0 1px 1px #efefef;
+    z-index: 1;
+}
+.offer-section-title
+{
+    right: 0;
+    border-bottom: 2px solid red;
+    padding-bottom: 4px;
+    font-size: 22px;
+    top: -4px;
+}
+@media screen and (max-width: 600px)
+{
+.offer-section-title {
+    font-size: 15px;
+    padding-bottom: 4px;
+    top: 4px;
+}}
